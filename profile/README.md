@@ -4,11 +4,10 @@
 
 # WSL Utilities
 
-> Note: several repositories will be archived as a process of moving the main dev repositories to <https://git.wedotstud.io/wslu/>. Further information will be announced in the coming weeks.
+> [!IMPORTANT]
+> The project is being discontinued.
   
  **WSL Utilites** is a collection of utilities for Linux Subsystem for Windows (WSL) that help you get things done easily on WSL. 
-
-[Blog](https://blog.wslutiliti.es/) | [Package Host](https://pkg.wslutiliti.es/) | [Email](mailto:contact@wslutiliti.es) | [Twitter](https://twitter.com/wslutilities) | [IRC](https://web.libera.chat/#wslu) | [OpenCollective](https://opencollective.com/wslutilities)
 
 </div>
 
